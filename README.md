@@ -8,6 +8,7 @@ Welcome to the support page for **Tic Tac Toe** on Apple Watch! We're here to as
 - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [Troubleshooting](#troubleshooting)
 - [Contact Support](#contact-support)
+- [Privacy Policy](#privacy-policy)
 
 ## Getting Started
 
@@ -47,3 +48,8 @@ A: Ensure that your Apple Watch is updated to the latest watchOS version and has
 ## Contact Support
 
 If you need further assistance, please contact our support team at [games4applewatch@gmail.com]
+
+## Privacy Policy
+
+Read our full [Privacy Policy](privacy-policy.md) to understand how we handle your data.
+
